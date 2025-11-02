@@ -1,7 +1,4 @@
 # Tank Project
-
-A Unity-based tank game project with core mechanics including tank movement, attack, health management, and more.
-
 ## Project Structure
 
 The project contains several key C# scripts that implement core game features:
